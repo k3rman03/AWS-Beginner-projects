@@ -34,22 +34,22 @@ This was part of a hands-on cloud learning experience, and the project helped re
 ## 📸 Screenshots & Diagrams
 
 ### Architecture Diagram
-![architecture-diagram](images/Rekognition.png)
+![architecture-diagram](Images/Rekognition.png)
 
 ---
 
 ### Labeled Output from Rekognition
-![labeled-output](images/labeled-image.png)
+![labeled-output](Images/labeled-image.png)
 
 ---
 
 ### Script Running in VSCode
-![vscode-terminal](images/vscode-running.png)
+![vscode-terminal](Images/vscode-running.png)
 
 ---
 
 ### S3 Bucket with Uploaded Image
-![s3-bucket](images/s3-bucket.png)
+![s3-bucket](Images/s3-bucket.png)
 
 ---
 
