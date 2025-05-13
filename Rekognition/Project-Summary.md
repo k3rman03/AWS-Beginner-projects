@@ -50,6 +50,7 @@ This was part of a hands-on cloud learning experience, and the project helped re
 
 ### S3 Bucket with Uploaded Image
 ![s3-bucket](Images/s3-bucket.png)
+![s3-bucket](Images/S3-bucket-image.png)
 
 ---
 
